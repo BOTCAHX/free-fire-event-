@@ -1,2 +1,8 @@
-# free-fire-event-
-Santi bro ini gua kasih script phising:v
+disclaimers⚠️
+Boleh pake tapi kalo ada masalah jangan tag gua 😕
+
+
+
+
+
+
