@@ -1,1 +1,1 @@
-worker : php -S 0.0.0.0:8000 -t .
+worker: php -S 0.0.0.0:8000 -t .
