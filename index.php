@@ -176,7 +176,7 @@
 <br> <br>
 <div class="mvl copyright">
 	<div>
-		<span style="color:#737373; font-size: 11px"> Facebook © 2021</span>
+		<span style="color:#737373; font-size: 11px"> Facebook © 2023</span>
 	</div>
 </div>
 		</footer>
